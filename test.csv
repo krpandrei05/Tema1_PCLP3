@@ -1,0 +1,301 @@
+valoare_comanda_medie,aplicatia,dispozitiv,timp,frecventa_lunara,varsta,metoda_de_plata,cupoane_de_reducere,recenzii,tip_client
+59.59,nu,tableta,31,5,54,ramburs,da,0,Standard
+419.89,nu,mobil,37,7,18,ramburs,nu,0,Low
+327.49,nu,tableta,30,7,46,card,da,2,Moderate
+346.19,da,mobil,51,6,32,card,da,5,Vip
+919.66,nu,tableta,43,1,19,card,da,8,Moderate
+10.0,nu,mobil,26,8,20,ramburs,da,8,Low
+265.14,da,desktop,49,10,18,card,nu,10,Ultra Vip
+227.52,nu,desktop,7,3,25,card,da,4,Low
+432.1,nu,mobil,18,10,55,ramburs,da,3,Standard
+38.23,nu,desktop,23,4,42,ramburs,da,5,Standard
+869.2,nu,mobil,39,3,48,ramburs,da,4,Moderate
+202.93,nu,mobil,31,10,22,card,da,1,Low
+261.13,nu,desktop,46,2,44,card,da,5,Moderate
+208.08,nu,tableta,40,2,41,card,nu,5,Moderate
+591.75,da,mobil,5,5,31,ramburs,nu,9,Moderate
+578.33,nu,mobil,16,10,54,card,da,0,Moderate
+210.89,nu,mobil,45,7,25,ramburs,nu,8,Moderate
+842.39,nu,tableta,56,7,25,card,da,7,Ultra Vip
+336.03,nu,mobil,14,8,32,ramburs,nu,8,Standard
+295.69,nu,desktop,6,8,47,card,nu,4,Vip
+349.7,da,mobil,20,6,34,card,da,4,Standard
+440.59,da,mobil,15,3,58,ramburs,da,3,Low
+228.13,da,desktop,5,8,47,card,da,10,Ultra Vip
+156.07,nu,mobil,21,4,34,card,da,5,Low
+519.16,da,mobil,14,10,32,ramburs,da,5,Standard
+381.17,nu,mobil,19,6,28,ramburs,da,1,Low
+745.38,nu,desktop,35,4,51,card,da,3,Vip
+300.57,nu,mobil,18,5,22,card,da,7,Low
+225.64,da,desktop,48,6,18,card,da,2,Moderate
+455.95,nu,mobil,29,3,21,card,da,8,Low
+248.28,nu,tableta,51,10,32,card,da,6,Vip
+446.29,nu,desktop,48,3,29,ramburs,nu,3,Standard
+749.48,da,mobil,29,3,35,card,nu,8,Moderate
+48.23,da,mobil,11,0,58,card,nu,2,Low
+383.42,da,mobil,40,7,52,card,da,6,Ultra Vip
+609.91,nu,mobil,52,0,41,card,da,0,Standard
+772.29,da,mobil,31,8,34,card,nu,4,Vip
+521.13,da,desktop,34,4,45,ramburs,da,9,Ultra Vip
+653.98,nu,tableta,31,7,32,card,da,6,Vip
+166.75,nu,tableta,35,5,45,card,nu,4,Moderate
+337.63,da,desktop,12,1,41,ramburs,da,0,Low
+292.11,da,tableta,51,2,20,card,da,1,Standard
+312.44,da,tableta,41,1,26,card,nu,6,Standard
+383.51,nu,desktop,49,2,44,card,nu,4,Moderate
+228.21,nu,desktop,15,0,48,ramburs,nu,5,Standard
+453.82,da,mobil,43,1,19,card,da,7,Standard
+246.75,nu,mobil,41,10,35,ramburs,da,8,Moderate
+672.44,nu,tableta,15,5,51,card,nu,9,Ultra Vip
+514.89,da,mobil,46,6,48,card,da,1,Vip
+162.62,nu,mobil,23,4,35,card,da,9,Standard
+514.48,nu,mobil,35,3,19,ramburs,da,9,Standard
+622.75,nu,mobil,57,1,58,ramburs,da,2,Moderate
+415.97,nu,mobil,12,1,26,card,da,0,Low
+125.08,da,desktop,33,3,42,card,da,10,Vip
+543.58,nu,desktop,37,2,24,ramburs,nu,2,Low
+219.82,da,tableta,30,10,53,card,nu,0,Ultra Vip
+205.21,nu,desktop,54,6,46,ramburs,nu,7,Ultra Vip
+191.7,da,desktop,8,0,41,ramburs,nu,7,Standard
+427.02,nu,desktop,39,8,49,ramburs,nu,6,Ultra Vip
+134.82,nu,desktop,10,4,53,card,da,6,Moderate
+529.11,da,desktop,56,10,37,card,da,10,Ultra Vip
+580.43,nu,mobil,42,3,47,card,nu,6,Vip
+498.7,nu,desktop,30,0,19,card,nu,4,Standard
+372.72,da,tableta,32,9,19,card,nu,5,Vip
+412.78,nu,mobil,17,9,48,card,nu,1,Moderate
+298.23,da,mobil,19,6,27,card,da,6,Low
+155.59,da,desktop,28,9,33,card,nu,3,Moderate
+244.53,da,mobil,52,7,25,ramburs,nu,2,Standard
+113.15,nu,mobil,55,2,57,ramburs,da,7,Moderate
+413.97,da,mobil,51,7,49,ramburs,da,10,Ultra Vip
+613.82,nu,desktop,31,2,43,card,nu,0,Moderate
+220.54,nu,desktop,36,10,19,card,nu,9,Ultra Vip
+631.5,da,desktop,9,6,27,card,da,0,Standard
+341.11,nu,mobil,5,0,54,card,da,4,Low
+355.04,da,desktop,47,9,58,card,da,5,Ultra Vip
+190.41,nu,desktop,30,8,20,card,da,3,Standard
+257.82,da,mobil,52,4,56,card,da,7,Ultra Vip
+518.39,da,tableta,32,7,46,card,da,2,Vip
+409.2,nu,mobil,58,9,58,ramburs,da,5,Ultra Vip
+342.02,nu,mobil,57,8,31,card,nu,3,Moderate
+360.53,nu,mobil,35,1,52,card,da,2,Low
+641.2,nu,tableta,49,7,37,card,nu,10,Ultra Vip
+615.45,nu,tableta,11,0,23,card,nu,1,Low
+400.38,nu,desktop,23,8,55,card,nu,4,Ultra Vip
+847.81,nu,desktop,8,9,36,ramburs,nu,2,Moderate
+445.11,nu,desktop,25,10,44,card,da,9,Ultra Vip
+76.78,nu,desktop,52,7,40,ramburs,da,4,Moderate
+506.45,nu,mobil,13,5,50,card,da,2,Standard
+289.3,nu,desktop,5,2,31,card,da,10,Standard
+308.26,nu,tableta,33,10,30,card,da,8,Vip
+484.93,da,desktop,9,3,46,card,da,1,Standard
+419.93,da,mobil,11,2,18,ramburs,nu,5,Low
+325.55,nu,tableta,24,9,39,card,da,0,Standard
+321.33,nu,desktop,34,7,27,card,da,8,Moderate
+565.88,da,desktop,6,5,44,card,da,7,Vip
+438.22,da,desktop,44,3,52,card,nu,0,Ultra Vip
+363.24,nu,mobil,54,1,19,card,nu,3,Low
+579.83,nu,tableta,14,0,43,ramburs,nu,0,Low
+230.75,da,mobil,47,2,53,card,da,1,Moderate
+566.61,nu,tableta,11,10,24,card,da,8,Moderate
+278.13,nu,mobil,7,8,45,card,da,3,Standard
+313.28,nu,mobil,59,3,41,card,da,7,Moderate
+172.92,nu,mobil,23,7,21,ramburs,da,10,Low
+530.52,nu,mobil,33,6,49,card,da,4,Moderate
+588.8,nu,mobil,25,2,56,card,da,8,Moderate
+734.1,nu,mobil,50,10,29,card,nu,10,Ultra Vip
+384.55,da,desktop,45,0,29,card,nu,0,Standard
+180.12,nu,desktop,27,10,41,ramburs,da,6,Moderate
+586.07,nu,mobil,46,10,52,card,nu,3,Ultra Vip
+289.07,nu,tableta,5,7,41,card,nu,0,Standard
+358.23,nu,mobil,16,8,51,ramburs,da,3,Standard
+418.06,nu,tableta,22,5,37,ramburs,da,3,Low
+428.77,da,mobil,29,4,33,ramburs,da,2,Low
+453.99,nu,desktop,47,7,30,card,nu,3,Vip
+466.64,nu,mobil,24,4,22,card,nu,3,Low
+521.04,da,tableta,14,3,22,card,nu,2,Low
+336.87,da,tableta,7,10,31,ramburs,da,5,Standard
+500.12,da,desktop,18,10,33,ramburs,nu,4,Moderate
+120.13,nu,mobil,23,7,45,ramburs,da,5,Standard
+254.86,da,desktop,7,10,54,card,nu,1,Vip
+665.46,nu,mobil,39,5,28,card,da,3,Low
+721.82,da,mobil,41,1,45,card,nu,1,Moderate
+529.97,da,mobil,59,2,53,ramburs,da,9,Ultra Vip
+343.88,nu,mobil,34,7,45,card,da,6,Moderate
+486.75,da,desktop,19,6,58,card,nu,7,Ultra Vip
+10.0,nu,mobil,45,4,37,ramburs,nu,4,Low
+369.57,nu,desktop,51,0,21,card,da,3,Low
+304.1,da,mobil,16,1,47,card,da,3,Low
+520.47,nu,tableta,20,0,41,ramburs,nu,10,Moderate
+667.52,da,mobil,10,9,45,card,da,2,Moderate
+524.76,nu,desktop,46,0,21,card,nu,4,Standard
+32.9,da,desktop,8,6,32,card,da,9,Moderate
+601.71,da,mobil,34,10,44,card,nu,6,Ultra Vip
+145.07,nu,mobil,36,7,42,card,nu,5,Moderate
+256.82,da,mobil,35,3,20,ramburs,nu,10,Standard
+634.72,da,desktop,26,8,57,card,da,1,Ultra Vip
+532.76,nu,mobil,33,6,35,card,da,0,Standard
+201.25,nu,tableta,27,0,32,ramburs,da,1,Low
+556.43,da,tableta,53,7,45,card,da,10,Ultra Vip
+159.59,da,mobil,52,1,44,card,nu,6,Moderate
+163.56,da,mobil,29,7,39,card,nu,9,Moderate
+432.53,nu,mobil,47,4,25,ramburs,da,4,Low
+455.7,nu,mobil,13,9,53,card,nu,8,Ultra Vip
+613.97,nu,desktop,26,7,37,ramburs,nu,7,Vip
+208.11,nu,desktop,38,3,38,card,nu,3,Standard
+288.21,da,mobil,33,8,58,card,da,8,Ultra Vip
+487.57,da,mobil,20,0,59,card,da,5,Moderate
+619.47,da,mobil,39,7,20,card,da,4,Moderate
+687.44,nu,desktop,13,0,21,ramburs,da,1,Low
+272.52,da,tableta,28,3,29,card,nu,7,Standard
+566.65,nu,mobil,37,10,38,ramburs,da,8,Moderate
+126.14,nu,mobil,59,0,46,ramburs,da,6,Standard
+399.8,nu,desktop,37,7,58,card,da,7,Ultra Vip
+309.71,nu,tableta,46,4,48,ramburs,da,3,Standard
+188.59,da,mobil,5,5,33,card,da,7,Low
+201.14,da,tableta,38,6,50,card,da,10,Ultra Vip
+525.99,nu,desktop,46,9,25,card,nu,3,Vip
+425.55,da,mobil,42,7,48,card,da,7,Ultra Vip
+587.41,nu,mobil,47,8,59,card,da,5,Ultra Vip
+681.61,nu,desktop,59,10,26,ramburs,da,6,Ultra Vip
+285.23,nu,desktop,10,4,36,ramburs,nu,8,Standard
+302.86,nu,desktop,18,0,18,ramburs,nu,8,Low
+299.79,da,tableta,45,10,38,card,nu,0,Vip
+254.79,da,desktop,13,9,24,card,da,8,Moderate
+514.33,nu,desktop,54,10,38,card,da,8,Ultra Vip
+111.38,da,tableta,16,3,39,card,da,4,Low
+135.44,da,tableta,37,1,47,card,nu,4,Standard
+316.15,nu,mobil,28,0,51,card,nu,4,Standard
+144.73,da,mobil,30,8,36,ramburs,nu,1,Standard
+267.93,nu,tableta,10,7,56,card,da,10,Vip
+140.19,da,tableta,39,10,25,card,da,8,Moderate
+607.6,da,desktop,49,4,49,card,nu,6,Ultra Vip
+649.37,da,mobil,30,0,26,ramburs,nu,1,Low
+559.21,nu,mobil,35,3,18,card,da,8,Standard
+421.88,nu,desktop,44,9,26,ramburs,nu,7,Ultra Vip
+440.61,nu,desktop,21,3,58,ramburs,da,0,Standard
+469.62,da,desktop,37,10,37,card,da,3,Vip
+259.52,nu,tableta,42,1,50,card,da,3,Standard
+383.6,nu,mobil,32,0,51,card,da,9,Moderate
+623.95,nu,tableta,7,9,51,card,da,2,Vip
+603.35,nu,mobil,18,9,45,card,nu,0,Moderate
+398.46,nu,desktop,15,0,35,card,da,2,Low
+474.29,da,mobil,54,9,48,card,da,3,Ultra Vip
+435.59,da,mobil,45,3,52,card,da,1,Moderate
+394.26,nu,tableta,30,8,41,card,nu,10,Ultra Vip
+718.81,nu,desktop,7,1,36,ramburs,da,5,Low
+682.34,nu,mobil,8,6,25,card,da,0,Low
+220.78,da,desktop,57,10,18,card,da,6,Ultra Vip
+10.0,da,desktop,26,5,55,card,da,2,Moderate
+337.24,da,mobil,56,2,45,card,da,9,Ultra Vip
+484.11,nu,mobil,29,3,18,ramburs,da,7,Low
+329.42,da,desktop,13,2,22,card,da,9,Standard
+536.35,da,desktop,29,3,59,ramburs,da,6,Vip
+254.01,nu,tableta,26,5,48,ramburs,da,5,Standard
+189.77,nu,mobil,25,5,35,ramburs,nu,7,Low
+328.94,da,tableta,5,9,33,ramburs,nu,10,Vip
+205.62,da,mobil,33,5,20,card,da,5,Standard
+10.0,da,tableta,48,7,50,card,da,10,Ultra Vip
+755.35,nu,mobil,25,2,28,ramburs,da,10,Standard
+87.78,nu,mobil,25,5,59,card,da,2,Low
+387.67,da,mobil,38,2,57,ramburs,da,7,Moderate
+478.14,da,tableta,53,5,57,card,nu,7,Ultra Vip
+448.09,da,tableta,6,8,36,ramburs,nu,5,Moderate
+221.39,da,mobil,16,4,50,card,nu,10,Vip
+709.66,nu,mobil,20,3,50,ramburs,da,1,Standard
+426.65,nu,mobil,6,1,46,card,da,8,Standard
+204.05,nu,tableta,47,10,56,card,nu,0,Ultra Vip
+531.07,da,mobil,38,0,59,card,da,4,Moderate
+472.25,nu,tableta,34,10,20,card,nu,4,Moderate
+798.18,nu,mobil,39,7,39,card,nu,10,Ultra Vip
+228.1,nu,desktop,10,2,51,card,nu,1,Standard
+377.35,nu,tableta,53,5,55,card,da,8,Ultra Vip
+598.33,nu,tableta,55,3,33,card,nu,10,Ultra Vip
+245.75,nu,mobil,28,9,46,card,da,5,Moderate
+732.01,da,mobil,57,1,18,card,da,6,Moderate
+305.63,nu,mobil,29,6,26,ramburs,da,10,Standard
+388.05,nu,desktop,42,7,29,ramburs,da,3,Standard
+493.57,da,desktop,38,6,26,ramburs,da,9,Vip
+676.38,da,mobil,39,10,24,card,nu,0,Moderate
+514.13,nu,desktop,29,1,40,ramburs,da,6,Standard
+248.7,da,desktop,21,5,22,card,nu,7,Moderate
+287.27,nu,mobil,31,9,26,card,da,1,Low
+393.7,da,mobil,19,0,31,card,nu,4,Low
+613.86,nu,mobil,26,5,48,card,nu,5,Vip
+627.37,da,mobil,18,10,53,card,da,6,Ultra Vip
+112.22,nu,mobil,20,10,28,card,nu,10,Moderate
+229.75,nu,mobil,12,0,40,ramburs,da,6,Low
+316.56,nu,tableta,11,5,45,card,nu,8,Moderate
+267.84,da,tableta,7,9,52,card,da,3,Moderate
+457.17,da,mobil,7,1,20,card,da,9,Low
+303.49,nu,tableta,13,8,35,card,da,7,Moderate
+78.25,nu,mobil,8,9,28,ramburs,da,6,Low
+380.44,da,tableta,34,2,29,card,da,8,Standard
+430.43,nu,desktop,40,10,49,card,nu,2,Ultra Vip
+206.76,nu,desktop,57,4,47,card,da,5,Ultra Vip
+148.15,nu,desktop,32,8,44,card,nu,0,Moderate
+117.07,nu,tableta,7,6,45,ramburs,nu,7,Moderate
+780.97,nu,desktop,50,9,50,card,nu,8,Ultra Vip
+513.38,nu,desktop,24,6,35,ramburs,nu,9,Vip
+365.83,nu,desktop,33,2,41,card,da,2,Standard
+267.32,nu,mobil,15,9,47,card,da,6,Moderate
+192.85,nu,mobil,27,6,22,card,da,6,Low
+513.31,da,desktop,35,1,46,card,nu,7,Ultra Vip
+700.45,da,mobil,33,5,51,card,nu,0,Vip
+610.34,da,desktop,17,8,56,card,da,5,Ultra Vip
+563.21,da,mobil,46,1,19,ramburs,nu,1,Low
+372.57,nu,mobil,8,2,58,ramburs,da,6,Low
+450.55,nu,tableta,23,3,36,ramburs,nu,10,Moderate
+396.42,nu,desktop,46,4,40,card,da,0,Moderate
+671.26,nu,desktop,9,1,40,ramburs,nu,5,Standard
+371.04,nu,mobil,32,1,54,card,nu,10,Vip
+315.49,nu,desktop,46,7,35,card,da,5,Vip
+842.19,da,tableta,57,10,21,card,da,7,Ultra Vip
+331.35,nu,mobil,11,5,30,card,da,8,Low
+508.28,nu,mobil,31,6,26,card,nu,7,Moderate
+471.66,da,desktop,40,7,31,ramburs,da,1,Moderate
+712.3,da,mobil,38,3,41,card,da,7,Vip
+490.13,nu,tableta,54,10,33,card,da,1,Vip
+549.25,nu,desktop,9,3,18,card,nu,10,Moderate
+829.4,nu,desktop,8,8,23,ramburs,nu,2,Moderate
+178.05,nu,tableta,26,5,39,card,da,0,Low
+406.78,nu,mobil,17,9,30,ramburs,nu,4,Standard
+435.56,nu,desktop,17,1,24,card,da,1,Low
+56.75,nu,tableta,5,4,54,ramburs,nu,9,Moderate
+553.09,da,mobil,29,8,39,card,da,8,Vip
+134.59,da,desktop,37,4,23,ramburs,nu,5,Standard
+365.86,da,tableta,45,5,20,card,nu,3,Standard
+299.23,da,mobil,28,7,44,card,nu,1,Standard
+839.47,da,desktop,22,1,37,card,da,7,Vip
+624.84,nu,desktop,58,4,35,card,nu,6,Ultra Vip
+225.23,nu,tableta,13,1,31,card,nu,1,Low
+10.0,nu,mobil,51,2,28,card,da,3,Low
+265.96,da,mobil,31,6,44,card,nu,7,Vip
+190.17,da,desktop,55,6,24,card,nu,6,Vip
+888.33,nu,mobil,12,9,36,card,nu,2,Moderate
+441.01,nu,desktop,29,1,31,card,nu,7,Moderate
+481.12,nu,mobil,31,1,43,card,da,3,Low
+10.0,nu,mobil,34,7,57,card,da,1,Standard
+148.92,da,mobil,57,10,37,ramburs,da,7,Vip
+461.59,da,desktop,48,1,54,card,da,4,Vip
+477.0,da,desktop,40,5,42,ramburs,da,0,Moderate
+384.11,nu,desktop,24,6,54,card,nu,9,Ultra Vip
+265.63,nu,tableta,13,9,20,card,da,1,Low
+327.15,nu,mobil,9,9,22,ramburs,nu,8,Standard
+197.46,nu,desktop,25,0,38,card,da,3,Low
+493.13,nu,mobil,36,3,46,card,nu,0,Standard
+352.05,da,mobil,34,0,47,card,da,5,Standard
+523.29,da,tableta,23,7,41,card,da,9,Ultra Vip
+372.65,da,mobil,49,6,18,ramburs,nu,8,Moderate
+626.43,da,tableta,54,10,22,card,da,0,Vip
+429.89,da,mobil,13,3,29,card,nu,5,Low
+418.12,da,mobil,45,4,44,card,da,0,Moderate
+216.51,da,mobil,25,6,45,card,nu,4,Moderate
+756.09,nu,desktop,22,5,37,ramburs,da,7,Moderate
+647.95,da,mobil,51,1,18,ramburs,nu,4,Standard
+552.82,nu,tableta,26,0,37,card,nu,9,Moderate
+618.14,nu,desktop,12,2,52,ramburs,da,3,Standard
+873.46,nu,mobil,12,5,49,card,da,6,Moderate
+358.53,nu,mobil,6,5,48,card,nu,3,Low
+300.05,da,mobil,20,2,37,card,da,2,Low
